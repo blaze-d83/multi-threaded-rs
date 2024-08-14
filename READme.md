@@ -19,11 +19,11 @@ This project implements a simple multi-threaded web server in Rust. It uses a th
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/blaze-d83/your_repository.git
+   git clone https://github.com/blaze-d83/multi-threaded-rs.git
     ```
 2. Navigate to the Project directory:
    ```sh
-   cd webservers-rs/multi-threaded
+   cd multi-threaded-rs
    ```
 3. Build  / Run the Project:
 ```sh
